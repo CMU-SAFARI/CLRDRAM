@@ -10,3 +10,13 @@ SPICE model used in the ISCA 2020 paper
 
 We use LTspice and the PTM (http://ptm.asu.edu) 22nm High-Performance transistor model (`transistor_model.pm`) for the simulations.
 
+## Models
+
+* `CLRDRAM.asc` The circuit model for CLR-DRAM.
+* `baseline.asc` The circuit model for the baseline architecture.
+* `baseline_WR.asc` The baseline model configured to simulate the process of writing to a DRAM cell.
+
+
+
+
+
